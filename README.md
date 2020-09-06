@@ -1,2 +1,2 @@
-# Moon-Spawn
-Advanced Spawn Plugin
+# Moon Spawn
+https://www.spigotmc.org/resources/mspawn.83609/
